@@ -17,7 +17,7 @@ img {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 32px;
 }
 
 /* do not edit this footer */
@@ -35,8 +35,10 @@ img {
 
 .content {
   display: flex;
-  justify-content: space-evenly;
-  padding: 50px;
+  /* justify-content: space-evenly; */
+  /* padding: 50px; */
+  justify-content: center;
+  gap: 52px;
 }
 
 .p {
